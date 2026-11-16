@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Yiğit Solakoğlu 👋</h1>
 
 <p align="center">
-  Software Engineering student at Haliç University • Full Stack Developer in progress
+  Software Engineering student at Haliç University • Java Backend Developer
 </p>
 
 ---
 
 ### About Me
 
-I'm a 21-year-old software engineering student at Haliç University, currently focusing on full stack development with a stronger interest in backend engineering.
+I'm a 21-year-old software engineering student at Haliç University, currently focusing on backend development with a stronger interest in backend engineering.
 
 I enjoy building practical applications, learning how systems work under the hood, and improving my skills through hands-on projects.
 
@@ -26,12 +26,11 @@ I enjoy building practical applications, learning how systems work under the hoo
 - Advanced backend development
 - Clean architecture
 - Database design
-- Modern frontend practices
 - Software engineering best practices
 
 ### Goals
 
-- Become a strong full stack developer
+- Become a strong backend developer
 - Build scalable and maintainable applications
 - Keep learning and improving through real projects
 
